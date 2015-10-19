@@ -1,0 +1,1 @@
+A simple MIPS decompiler written as student project during a semester of Computer Organization and Assembly Language. It is meant to give the students experience in version control, C#, and assembly language.
